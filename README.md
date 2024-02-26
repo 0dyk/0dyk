@@ -21,11 +21,8 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="20"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="20"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="20"> 
 
 ### Tool
-<img src="https://img.shields.io/badge/eclipseide-39305E?style=for-the-badge&logo=eclipseide&logoColor=white" height="20"> 
-<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="20"> 
-<img src="https://img.shields.io/badge/visualstudiocode-3AA4EA?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="20"> 
-<img src="https://img.shields.io/badge/visualstudio-642076?style=for-the-badge&logo=visualstudio&logoColor=white" height="20"> 
-
+<img src="https://img.shields.io/badge/eclipseide-39305E?style=for-the-badge&logo=eclipseide&logoColor=white" height="20"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="20"> 
+<img src="https://img.shields.io/badge/visualstudiocode-3AA4EA?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="20"> <img src="https://img.shields.io/badge/visualstudio-642076?style=for-the-badge&logo=visualstudio&logoColor=white" height="20"> 
 
 <br />
 
