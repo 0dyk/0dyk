@@ -7,11 +7,6 @@
 
 <br />
 
-## :trophy: Awards :trophy:
-[2023.02.16] : 삼성 청년 SW 아카데미 공통 프로젝트 우수상
-
-<br />
-
 ## :hammer_and_wrench: Skill :hammer_and_wrench:
 
 ### FrontEnd
@@ -35,6 +30,11 @@
 
 2024.01 ~ 2024.02 : [PLOUD](https://github.com/0dyk/ploud)
 - AI 평가를 통한 스피치 학습 서비스
+
+<br />
+
+## :trophy: Awards :trophy:
+[2023.02.16] : 삼성 청년 SW 아카데미 공통 프로젝트 우수상
 
 <br />
 
