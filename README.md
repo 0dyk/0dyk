@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/eclipseide-39305E?style=for-the-badge&logo=eclipseide&logoColor=white" height="20"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="20"> <img src="https://img.shields.io/badge/visualstudiocode-3AA4EA?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="20">
 
 ### Tool
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" height="20"> <img src="https://img.shields.io/badge/gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=white" height="20"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" height="20"> <img src="https://img.shields.io/badge/gerrit-A5F7A5?style=for-the-badge&logo=gerrit&logoColor=white" height="20"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="20">
 
 <br />
 
