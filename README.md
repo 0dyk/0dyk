@@ -1,7 +1,6 @@
 # Hi 👋
 
-name : 김영대(Kim Yeong Dae)
-
+name : 김영대(Kim Yeong Dae)</br>
 email : oooo_0@naver.com
 
 ## :four_leaf_clover: About me :four_leaf_clover:
