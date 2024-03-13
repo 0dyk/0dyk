@@ -1,5 +1,8 @@
 # Hi 👋
 
+name : 김영대(Kim Yeong Dae)
+email : oooo_0@naver.com
+
 ## :four_leaf_clover: About me :four_leaf_clover:
 2016.03 ~ 2023.02 : 부산대학교 건축학과 (졸업)</br>
 2023.01 ~ 2023.02 : 삼성전자 DX 부문 동계 SW 역량강화 특강 (수료)</br>
@@ -24,11 +27,9 @@
 <br />
 
 ## :art: Project :art:
-[whereismydong](https://github.com/0dyk/whereismydong) : 나에게 맞는 동네 찾기 서비스 (2023.11 ~ 2023.11)
+- [whereismydong](https://github.com/0dyk/whereismydong) : 나에게 맞는 동네 찾기 서비스 (2023.11 ~ 2023.11)
 
-<br />
-
-[PLOUD](https://github.com/0dyk/ploud) : AI 평가를 통한 스피치 학습 서비스 (2024.01 ~ 2024.02)
+- [PLOUD](https://github.com/0dyk/ploud) : AI 평가를 통한 스피치 학습 서비스 (2024.01 ~ 2024.02)
 
 <br />
 
