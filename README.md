@@ -27,9 +27,11 @@ email : oooo_0@naver.com
 <br />
 
 ## :art: Project :art:
-- [whereismydong](https://github.com/0dyk/whereismydong) : 나에게 맞는 동네 찾기 서비스 (2023.11 ~ 2023.11)
+- whereismydong : 나에게 맞는 동네 찾기 서비스 (2023.11 ~ 2023.11)
 
-- [PLOUD](https://github.com/0dyk/ploud) : AI 평가를 통한 스피치 학습 서비스 (2024.01 ~ 2024.02)
+- [PLOUD](https://github.com/0dyk/ploud) : AI 평가를 통한 스피치 학습 서비스 (2024.01 ~ 2024.02 / 6주)
+
+- [EUREKA](https://github.com/0dyk/eureka) : 마이데이터를 활용한 카드 상품 추천 및 결제 카드 추천 서비스 (2024.02 ~ 2024.04 / 6주)
 
 <br />
 
