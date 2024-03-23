@@ -27,7 +27,6 @@ email : oooo_0@naver.com
 <br />
 
 ## :art: Project :art:
-- whereismydong : 나에게 맞는 동네 찾기 서비스 (2023.11 ~ 2023.11)
 
 - [PLOUD](https://github.com/0dyk/ploud) : AI 평가를 통한 스피치 학습 서비스 (2024.01 ~ 2024.02 / 6주)
 
