@@ -35,7 +35,7 @@ email : oooo_0@naver.com
 <br />
 
 ## :trophy: Awards :trophy:
-삼성 청년 SW 아카데미 공통 프로젝트 우수상 (2023.02.16)
+2023.02.16 : 삼성 청년 SW 아카데미 공통 프로젝트 우수상
 
 <br />
 
