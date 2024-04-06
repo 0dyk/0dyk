@@ -1,7 +1,7 @@
 <div align=center>
   <b>Hi 👋</b>
   <br />
-  I`m a Backend Developer.
+  I'm a Backend developer.
 </div>
 <br />
 
