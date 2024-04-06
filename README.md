@@ -8,9 +8,9 @@
 <div align=center>
   <b>About Me</b>
   <br />
-  2016.03 ~ 2023.02 : 부산대학교 건축학과 (졸업)</br>
+  2016.03 ~ 2023.02 : 부산대학교 건축학과 (졸업)
   <br />
-  2023.01 ~ 2023.02 : 삼성전자 DX 부문 동계 SW 역량강화 특강 (수료)</br>
+  2023.01 ~ 2023.02 : 삼성전자 DX 부문 동계 SW 역량강화 특강 (수료)
   <br />
   2023.07 ~ 2024.06 : 삼성 청년 SW 아카데미 (1학기 수료, 2학기 재학)  
 </div>
@@ -19,20 +19,24 @@
 <div align=center>
   <b>Skills</b>
   <br />
-  ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![JPA](https://img.shields.io/badge/jpa hibernate-B6A975?style=for-the-badge&logo=hibernate&logoColor=white)
+
+![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/jpa hibernate-B6A975?style=for-the-badge&logo=hibernate&logoColor=white)
+
 </div>
 <br />
 
 <div align=center>
   <b>Tools</b>
-  <br />  
-  ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
-  ![GITLAB](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-  ![GERRIT](https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=white)
-  ![NOTION](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+<br />  
+
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
+![GITLAB](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GERRIT](https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=white)
+![NOTION](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
 </div>
 <br />
 
