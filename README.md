@@ -18,15 +18,6 @@ email : oooo_0@naver.com
 ### BackEnd
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="20"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="20"> <img src="https://img.shields.io/badge/jpa hibernate-B6A975?style=for-the-badge&logo=hibernate&logoColor=white" height="20"> 
 
-<!--
-
-### IDE
-<img src="https://img.shields.io/badge/eclipseide-39305E?style=for-the-badge&logo=eclipseide&logoColor=white" height="20"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="20"> <img src="https://img.shields.io/badge/visualstudiocode-3AA4EA?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="20">
-
-### Tool
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" height="20"> <img src="https://img.shields.io/badge/gerrit-A5F7A5?style=for-the-badge&logo=gerrit&logoColor=white" height="20"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="20">
---!>
-
 <br />
 
 ## :art: Project :art:
@@ -39,8 +30,17 @@ email : oooo_0@naver.com
 
 ## :trophy: Awards :trophy:
 2023.02.16 : 삼성 청년 SW 아카데미 공통 프로젝트 우수상
+2023.04.04 : 삼성 청년 SW 아카데미 특화 프로젝트 우수상
 
 <br />
 
 ## :baseball: BOJ :baseball:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zerodyk)](https://solved.ac/zerodyk/)
+
+<!--
+### IDE
+<img src="https://img.shields.io/badge/eclipseide-39305E?style=for-the-badge&logo=eclipseide&logoColor=white" height="20"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="20"> <img src="https://img.shields.io/badge/visualstudiocode-3AA4EA?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="20">
+
+### Tool
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" height="20"> <img src="https://img.shields.io/badge/gerrit-A5F7A5?style=for-the-badge&logo=gerrit&logoColor=white" height="20"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="20">
+--!>
