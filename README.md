@@ -20,7 +20,6 @@
   <b>Skills</b>
   <br />
 
-![JAVA](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/jpahibernate-B6A975?style=flat-square&logo=hibernate&logoColor=white)
