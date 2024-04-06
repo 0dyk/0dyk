@@ -14,7 +14,7 @@
   <br />
   2023.07 ~ 2024.06 : 삼성 청년 SW 아카데미 (1학기 수료, 2학기 재학)  
 </div>
-
+<br />
 
 <div align=center>
   <b>Skills</b>
@@ -26,7 +26,6 @@
 ![JPA](https://img.shields.io/badge/jpahibernate-B6A975?style=flat-square&logo=hibernate&logoColor=white)
 
 </div>
-<br />
 
 <div align=center>
   <b>Tools</b>
