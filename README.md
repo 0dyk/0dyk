@@ -1,53 +1,56 @@
-# Hi 👋
-
-name : 김영대(Kim Yeong Dae)</br>
-email : oooo_0@naver.com
-
-## :four_leaf_clover: About me :four_leaf_clover:
-2016.03 ~ 2023.02 : 부산대학교 건축학과 (졸업)</br>
-2023.01 ~ 2023.02 : 삼성전자 DX 부문 동계 SW 역량강화 특강 (수료)</br>
-2023.07 ~ 2024.06 : 삼성 청년 SW 아카데미 (1학기 수료, 2학기 재학)
-
+<div>
+  <b>Hi 👋</b>
+  <br />
+  email : oooo_0@naver.com
+</div>
 <br />
 
-## :hammer_and_wrench: Skill :hammer_and_wrench:
+<div>
+  <b>About Me</b>
+  <br />
+  2016.03 ~ 2023.02 : 부산대학교 건축학과 (졸업)</br>
+  <br />
+  2023.01 ~ 2023.02 : 삼성전자 DX 부문 동계 SW 역량강화 특강 (수료)</br>
+  <br />
+  2023.07 ~ 2024.06 : 삼성 청년 SW 아카데미 (1학기 수료, 2학기 재학)  
+</div>
 
 
-### BackEnd
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="20"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="20"> <img src="https://img.shields.io/badge/jpa hibernate-B6A975?style=for-the-badge&logo=hibernate&logoColor=white" height="20"> 
-
-### Tool
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
-![GITLAB](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GERRIT](https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=white)
-![NOTION](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
+<div>
+  <b>Skills</b>
+  <br />
+  ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![JPA](https://img.shields.io/badge/jpa hibernate-B6A975?style=for-the-badge&logo=hibernate&logoColor=white)
+</div>
 <br />
 
-## :art: Project :art:
-
-[PLOUD](https://github.com/0dyk/ploud) : 화상 스터디 및 음성 평가를 통한 스피치 학습 서비스 (2024.01 ~ 2024.02 / 6주)
-
-[EUREKA](https://github.com/0dyk/eureka) : 마이데이터를 활용한 카드 상품 추천 및 결제 카드 추천 서비스 (2024.02 ~ 2024.04 / 6주)
-
+<div>
+  <b>Tools</b>
+  <br />  
+  ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
+  ![GITLAB](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+  ![GERRIT](https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=white)
+  ![NOTION](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+</div>
 <br />
 
-## :trophy: Awards :trophy:
-2023.02.16 : 삼성 청년 SW 아카데미 공통 프로젝트 우수상
-
-2023.04.04 : 삼성 청년 SW 아카데미 특화 프로젝트 우수상
-
+<div>
+  <b>Project</b>
+  ![PLOUD](https://github.com/0dyk/ploud)  
+  <br />
+  화상 스터디 및 음성 평가를 통한 스피치 학습 서비스 (2024.01 ~ 2024.02 / 6주)
+  <br />
+  ![EUREKA](https://github.com/0dyk/eureka)
+  <br />
+  마이데이터를 활용한 카드 상품 추천 및 결제 카드 추천 서비스 (2024.02 ~ 2024.04 / 6주)
+  <br />
+</div>
 <br />
 
-## :baseball: BOJ :baseball:
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zerodyk)](https://solved.ac/zerodyk/)
-
-<!--
-### FrontEnd
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=css3&logoColor=white" height="20"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="20"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="20">
-
-
-### IDE
-<img src="https://img.shields.io/badge/eclipseide-39305E?style=for-the-badge&logo=eclipseide&logoColor=white" height="20"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="20"> <img src="https://img.shields.io/badge/visualstudiocode-3AA4EA?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="20">
-
---!>
+<div>
+  <b>I love Algorithm</b>
+  <br />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zerodyk)](https://solved.ac/zerodyk/)  
+</div>
