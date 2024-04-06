@@ -20,10 +20,10 @@
   <b>Skills</b>
   <br />
 
-![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JPA](https://img.shields.io/badge/jpa hibernate-B6A975?style=for-the-badge&logo=hibernate&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/jpahibernate-B6A975?style=flat-square&logo=hibernate&logoColor=white)
 
 </div>
 <br />
