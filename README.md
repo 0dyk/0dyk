@@ -42,7 +42,7 @@
 <div align=center>
   <b>Project</b>
 
-[PLOUD](https://github.com/0dyk/ploud)  
+<a href="https://github.com/0dyk/ploud">PLOUD</a>
 <br />
 화상 스터디 및 음성 평가를 통한 스피치 학습 서비스 (2024.01 ~ 2024.02 / 6주)
 <br />
