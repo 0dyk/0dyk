@@ -17,7 +17,10 @@ email : oooo_0@naver.com
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="20"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="20"> <img src="https://img.shields.io/badge/jpa hibernate-B6A975?style=for-the-badge&logo=hibernate&logoColor=white" height="20"> 
 
 ### Tool
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" height="20"> <img src="https://img.shields.io/badge/gerrit-A5F7A5?style=for-the-badge&logo=gerrit&logoColor=white" height="20"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="20">
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
+![GITLAB](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GERRIT](https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=white)
+![NOTION](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 <br />
 
