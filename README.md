@@ -1,11 +1,11 @@
-<div>
+<div align=center>
   <b>Hi 👋</b>
   <br />
   email : oooo_0@naver.com
 </div>
 <br />
 
-<div>
+<div align=center>
   <b>About Me</b>
   <br />
   2016.03 ~ 2023.02 : 부산대학교 건축학과 (졸업)</br>
@@ -16,7 +16,7 @@
 </div>
 
 
-<div>
+<div align=center>
   <b>Skills</b>
   <br />
   ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -26,7 +26,7 @@
 </div>
 <br />
 
-<div>
+<div align=center>
   <b>Tools</b>
   <br />  
   ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
@@ -36,7 +36,7 @@
 </div>
 <br />
 
-<div>
+<div align=center>
   <b>Project</b>
   ![PLOUD](https://github.com/0dyk/ploud)  
   <br />
@@ -49,7 +49,7 @@
 </div>
 <br />
 
-<div>
+<div align=center>
   <b>I love Algorithm</b>
   <br />
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zerodyk)](https://solved.ac/zerodyk/)  
