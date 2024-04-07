@@ -38,6 +38,7 @@
 </div>
 <br />
 
+<!--
 <div align=center>
 <b>Project</b>
 
@@ -55,6 +56,7 @@
 
 </div>
 <br />
+--!>
 
 <div align=center>
   <b>I love Algorithm</b>
