@@ -38,6 +38,14 @@
 </div>
 <br />
 
+<div align=center>
+  <b>I love Algorithm</b>
+  <br />
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zerodyk)](https://solved.ac/zerodyk/)  
+
+</div>
+
 <!--
 <div align=center>
 <b>Project</b>
@@ -57,11 +65,3 @@
 </div>
 <br />
 --!>
-
-<div align=center>
-  <b>I love Algorithm</b>
-  <br />
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zerodyk)](https://solved.ac/zerodyk/)  
-
-</div>
