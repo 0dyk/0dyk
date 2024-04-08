@@ -48,7 +48,7 @@
 
   HSAT 3급
   <br />
-  삼성전자 SW 역량테스트 Pro\
+  삼성전자 SW 역량테스트 Pro
   
 </div>
 
