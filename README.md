@@ -8,17 +8,6 @@
 <br />
 
 <div align=center>
-  <b>About Me</b>
-  <br />
-  2016.03 ~ 2023.02 : 부산대학교 건축학과 (졸업)
-  <br />
-  2023.01 ~ 2023.02 : 삼성전자 DX 부문 동계 SW 역량강화 특강 (수료)
-  <br />
-  2023.07 ~ 2024.06 : 삼성 청년 SW 아카데미 (수료)  
-</div>
-<br />
-
-<div align=center>
   <b>Skills</b>
   <br />
 
@@ -39,18 +28,6 @@
 
 </div>
 <br />
-
-<div align=center>
-  <b>I love Algorithm</b>
-  <br />
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zerodyk)](https://solved.ac/zerodyk/)  
-
-  HSAT 3급
-  <br />
-  삼성전자 SW 역량테스트 Pro
-  
-</div>
 
 <!--
 <div align=center>
